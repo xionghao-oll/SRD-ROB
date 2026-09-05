@@ -2,7 +2,7 @@
 
 ## 🚧 Status: Code Coming Soon
 
-> The code will be open-sourced **within one month after the paper is publicly available**.  
+> The official implementation will be released in this repository **upon publication of the paper**. Thank you for your interest and patience.  
 
 
 
